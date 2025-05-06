@@ -15,4 +15,4 @@ public:
         cout << "Masukkan Lebar : ";
         cin >> lebar;
     }
-}
+};
